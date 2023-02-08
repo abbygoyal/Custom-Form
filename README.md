@@ -1,5 +1,5 @@
 ## React-Custom-Form
-React Custom-Form with Validation!
+React Custom-Form with Validation.
 
 ## Live Project Link
 [React-Custom-Form](https://react-custom-form.netlify.app/)
